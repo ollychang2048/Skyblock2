@@ -1,1 +1,1 @@
-java -Xmx512M -Xms512M -jar paper.jar nogui
+java -Xmx486M -Xms486M -jar paper.jar nogui
